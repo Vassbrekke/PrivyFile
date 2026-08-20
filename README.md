@@ -69,7 +69,7 @@ Version is pinned in `scripts/exiftool-version.txt`. Windows downloads `exiftool
 
 ### GitHub Releases
 
-Pushing a version tag builds all platforms and uploads installers to [GitHub Releases](https://github.com/N0L0g1c/PrivyFile/releases):
+Pushing a version tag builds all platforms and uploads installers to [GitHub Releases](https://github.com/Vassbrekke/PrivyFile/releases):
 
 ```bash
 # Bump version in package.json and src-tauri/tauri.conf.json first

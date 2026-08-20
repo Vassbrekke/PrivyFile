@@ -37,7 +37,7 @@ PrivyFile may bundle [ExifTool](https://exiftool.org/) as an external process fo
 
 ## Open Source
 
-Full source code is available at [github.com/N0L0g1c/PrivyFile](https://github.com/N0L0g1c/PrivyFile) for transparency and audit.
+Full source code is available at [github.com/Vassbrekke/PrivyFile](https://github.com/Vassbrekke/PrivyFile) for transparency and audit.
 
 ## Contact
 

@@ -6,11 +6,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/N0L0g1c/PrivyFile.git"
+    "url": "https://github.com/Vassbrekke/PrivyFile.git"
   },
-  "homepage": "https://github.com/N0L0g1c/PrivyFile#readme",
+  "homepage": "https://github.com/Vassbrekke/PrivyFile#readme",
   "bugs": {
-    "url": "https://github.com/N0L0g1c/PrivyFile/issues"
+    "url": "https://github.com/Vassbrekke/PrivyFile/issues"
   },
   "type": "module",
   "scripts": {
