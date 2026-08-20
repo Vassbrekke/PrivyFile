@@ -46,7 +46,7 @@ The Tauri desktop app requests filesystem access to read and write files you sel
 
 ## Reporting Vulnerabilities
 
-Please report security issues via GitHub Issues on [N0L0g1c/PrivyFile](https://github.com/Vassbrekke/PrivyFile). Do not disclose sensitive details publicly until addressed.
+Please report security issues via GitHub Issues on [Vassbrekke/PrivyFile](https://github.com/Vassbrekke/PrivyFile). Do not disclose sensitive details publicly until addressed.
 
 ## Recommendations
 

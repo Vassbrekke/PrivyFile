@@ -95,7 +95,9 @@ git push origin v0.1.0
 
 ## License
 
-MIT — see [LICENSE](LICENSE)
+[MIT](LICENSE). Copyright © 2026 [Vassbrekke AS](https://www.vassbrekke.no).
+
+Source: https://github.com/Vassbrekke/PrivyFile
 
 ## Privacy
 
